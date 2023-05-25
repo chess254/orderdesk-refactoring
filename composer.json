@@ -1,0 +1,8 @@
+{
+    "name": "orderdesk/refactoring",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "license": "proprietary"
+}
